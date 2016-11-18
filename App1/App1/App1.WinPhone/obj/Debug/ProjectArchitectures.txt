@@ -1,0 +1,2 @@
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.WinPhone\App1.WinPhone.csproj;neutral
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1\App1.csproj;neutral

@@ -1,0 +1,14 @@
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.pdb
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\bin\iPhone\Debug\App1.dll
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\bin\iPhone\Debug\App1.pdb
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\bin\iPhone\Debug\App1.dll.mdb
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojResolveAssemblyReference.cache
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe.mdb
+D:\fall_2016\Senior_Design\Xamarin\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe.mdb
